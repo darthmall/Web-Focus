@@ -1,0 +1,37 @@
+html {
+  color: transparent;
+}
+
+body {
+  height: 1672px;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: BebasNeueRegular;
+}
+
+.near {
+  text-shadow: 0 0 0 rgba(0, 0, 0, 1);
+  position: fixed;
+  font-size: 151px;
+  left: 35%;
+  top: 395px;
+}
+
+.middle {
+  text-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  font-size: 58px;
+  left: 40%;
+  top: 151px;
+}
+
+.far {
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  position: fixed;
+  font-size: 22px;
+  left: 45%;
+  top: 58px;
+}
+
+/* vim: set et fenc=utf-8 sts=2 sw=2 ts=8 : */
